@@ -1,2 +1,0 @@
-# we only need c close, s don't need close;
-# socket.setdefaulttimeout(5) can reconnect the socket server; raise exception if accept takes too long
